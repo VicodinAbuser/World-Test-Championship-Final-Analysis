@@ -1,0 +1,34 @@
+# World-Test-Championship-Final-Analysis
+### In-depth Analysis of the World Test Championship Final between India and New Zealand
+<hr>
+- Last 5 years data in England
+  - Average innings scores
+  - Numbers of different types of bowlers
+- Last 5 years data in Southampton
+  - Average innings scores
+  - Numbers of different types of bowlers
+  - Spinners vs Pacers
+  - Highest Run Scorers and Wicket Takers
+- New Zealand's numbers in England (Last 3 tours)
+  - Team innings scores
+  - Batsmen's records
+  - Bowler's records
+- India's numbers in England(Last 3 tours)
+  - Team innings scores
+  - Batsmen's records
+  - Bowler's records
+- India's numbers in Southampton
+- New Zealand's numbers against India - In New Zealand & Overall
+  - Match ups
+  - Individual records
+  - Team records
+- India's numbers against New Zealand - In New Zealand & Overall
+  - Match ups
+  - Individual records
+  - Team records
+- New Zealand's numbers in the last 5 years
+  - Weighted Averages
+  - Individual & Team Records
+- India's numbers in the last 5 years
+  - Weighted Averages
+  - Individual & Team Records
