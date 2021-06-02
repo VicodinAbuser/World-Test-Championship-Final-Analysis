@@ -1,6 +1,6 @@
 # World-Test-Championship-Final-Analysis
 ### In-depth Analysis of the World Test Championship Final between India and New Zealand
-This project aims at previewing and analysing the upcoming WTC Final between India & New Zealand from as many aspects as possible with as many bases covered as possible.
+This project aims at previewing and analysing the upcoming WTC Final between India & New Zealand from as many aspects as possible with as many bases covered as possible. The broad categories of analysis done here are mentioned below. Each individual sub-category has been analyzed further using specific metrics for bowlers and batters respectively.
 <hr>
 
 - Last 5 years data in England
